@@ -76,4 +76,5 @@
    ```bash
    adb install CarKeuKeu-release.apk
 
-<img width="1498" height="766" alt="image" src="https://github.com/user-attachments/assets/795827c3-d90c-406b-a898-c9470f855cdb" />
+<img width="950" height="712" alt="image" src="https://github.com/user-attachments/assets/2396a7fc-651a-44c4-81ca-c080136f3736" />
+
