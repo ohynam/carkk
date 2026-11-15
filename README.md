@@ -20,15 +20,13 @@
 ## 🎥 2. 소개 영상 및 주요 화면
 
 ### ▶️ 소개 영상 보러가기
-* **[🔗 카크크(CarKK) 공식 시연 영상 (YouTube 링크 삽입)]([https://www.youtube.com/watch?v=W4xSGQuACOM&feature=youtu.be)**
+* **[🔗 카크크(CarKK) 소개 영상](https://www.youtube.com/watch?v=W4xSGQuACOM&feature=youtu.be)**
+
 
 ### 🖼️ 주요 인포테인먼트 UI 화면
 | ① 사전 온보딩 & 구호 등록 | ② 주행 중 AI MC 퀴즈 진행 | ③ 2시간 주행 휴게소 미션 | ④ 도착 후 가족 대화 리포트 |
 | :---: | :---: | :---: | :---: |
-| <img src="docs/images/screen1.png" width="220" alt="온보딩 화면"/> | <img src="docs/images/screen2.png" width="220" alt="주행 중 화면"/> | <img src="docs/images/screen3.png" width="220" alt="휴게소 미션 화면"/> | <img src="docs/images/screen4.png" width="220" alt="리포트 화면"/> |
 | 가족별 나이·음성·구호 설정 | 다크 모드 & 음성 파형 UI | P단 전환 시 현장 미션 전송 | QR 연동 모바일 카드뉴스 공유 |
-
-> *(※ 위 이미지 경로 `docs/images/...`에 실제 앱 캡처 화면이나 GIF를 업로드해 교체해 주세요.)*
 
 ---
 
@@ -67,14 +65,5 @@
 
 ---
 
-## 🚀 5. 빌드 및 실행 방법
 
-### 방법 A. 제출된 APK 파일로 즉시 실행 
-별도의 API 키 설정 없이 모든 기능을 즉시 테스트하실 수 있도록 빌드된 **완성본 APK**를 함께 제출하였습니다.
-1. 제출 파일 중 `CarKeuKeu-release.apk` (또는 GitHub [Releases] 탭의 APK)를 다운로드합니다.
-2. Pleos Connect 에뮬레이터(AAOS) 또는 테스트 기기에 아래 명령어로 설치합니다.
-   ```bash
-   adb install CarKeuKeu-release.apk
-
-<img width="950" height="712" alt="image" src="https://github.com/user-attachments/assets/2396a7fc-651a-44c4-81ca-c080136f3736" />
 
